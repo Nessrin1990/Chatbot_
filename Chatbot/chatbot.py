@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri May 28 12:35:54 2021
 
-@author: DELL
+
+@author: azaiez nesrinr
 """
 
 import nltk
