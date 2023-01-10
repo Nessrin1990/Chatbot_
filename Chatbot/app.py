@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri May 28 12:37:20 2021
 
-@author: DELL
+
+@author: nesrine azaiez 
 """
 from gtts import gTTS
 import os
